@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.img1 {
+    width: 25px;
+    height: 25px;
+}
+header {
+
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+
+}
+ul  {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+}
+
+ul li a {
+    padding: 0 20px;
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+}
+.consult {
+    background-color: rgb(211, 73, 38);
+    padding: 15px;
+    color: white;
+    border-radius: 5px;
+
+}
+.portfolio {
+    font-weight: bold;
+}
+.content-left {
+    width: 40%;
+    margin: 0 40px;
+    
+}
+.middle {
+    background-color: rgb(226, 228, 228);
+    padding: 80px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.hire {
+    padding: 15px;
+    padding-left: 26px;
+    padding-right: 26px;
+    border-radius: 5px;
+    border-color: rgb(189, 189, 189);
+}
+.img2 {
+    width: 350px;
+    height: 400px;
+    padding-left: 20px;
+}
+.redtext {
+ 
+    color: red;
+    padding-bottom: 30px;
+}
+.designer {
+    color: rgb(60, 60, 114);
+    font-size: 27;
+    padding-bottom: 20px;
+    letter-spacing: 1px;
+    font-family: serif;
+
+ 
+}
+.p {
+    padding-bottom: 20px;
+}
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+}
+.design {
+    font-family: 'Lucida Sans';
+    font-size: 15px;
+    text-align: left;
+    padding-top: 40px;
+    font-stretch: expanded;
+}
+.space {
+    width: 10px;
+    display: inline-block;
+}
+.designr {
+    font-family: sans-serif;
+    font-size: 15px;
+    text-align: left;
+    padding-top: 40px;
+}
